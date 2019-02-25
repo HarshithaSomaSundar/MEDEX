@@ -1,0 +1,2 @@
+# MEDEX
+A scalable E-commerce java application to supply medical equipments required for clinics and hospitals. Utilized swing frameworks for the GUI. Employed Database (Db4o) for objects and data persistence.Implemented e-tendering system and viewing current trending products; Displayed statistics using JFreeChart library.Integrated APIs namely Mailing and Google Maps to ensure swift communication
